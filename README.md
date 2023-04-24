@@ -1,4 +1,3 @@
- 10 Things I Hate About You DNLP project
 This is a project on creating a chatbot with Deep NLP using the seq2seq model. The project is based on the 90s' best rated movies like:  "10 Things I Hate About You", "affliction", "the insider" ...	. The chatbot is designed to answer questions related to the movie.
 
 Dataset
