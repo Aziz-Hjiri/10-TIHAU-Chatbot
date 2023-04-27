@@ -28,4 +28,4 @@ Model architecture
 The seq2seq model is used to build the chatbot. The model consists of an encoder and a decoder. The encoder takes the input sequence of words and outputs a fixed-length vector representation of the sequence. The decoder then takes this vector representation and generates the output sequence of words. The model is trained using the teacher forcing technique.
 
 Output
-The chatbot is designed to answer questions related to the movie. The user can input any question related to the movie and the chatbot will generate an appropriate answer.
+The chatbot is designed to answer the users' questions and make conversations. 
